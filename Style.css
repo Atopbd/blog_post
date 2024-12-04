@@ -1,0 +1,35 @@
+.heading{
+    border: 1px solid white;
+    background-color: rgb(4, 15, 88);
+    margin-bottom: 5px;
+    justify-content: center;
+    width: auto;
+
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: 30px ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.para{
+    border: 1px solid white;
+    width: auto;
+    justify-content: center;
+    
+}
+.pfirst{
+    font-size: 25px ;
+    margin-left:15%  ;
+    margin-right: 15%;
+    text-align: justify;
+}
+.imgf{
+    margin-left:15%  ;
+    margin-right: 15%;
+    width: 70%;
+    height: 720px;
+    border: 1 px solid white;
+    border-radius: 30px ;
+}
