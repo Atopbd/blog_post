@@ -33,3 +33,31 @@ h2{
     border: 1 px solid white;
     border-radius: 30px ;
 }
+
+.neww {
+    border: 1px solid white;
+    justify-content: center;
+    width: 100%;
+    display: flex;
+
+  
+}
+
+.twond{
+    border: 1px solid white;
+    height: 480px;
+    width: 480px;
+    border-radius: 40px;
+    width: 90%;
+    margin-right: 15%;
+    
+}
+.para3{
+    border: 1px solid white;
+    height: 480px;
+    width: 39%;
+    font-size: 25px ;
+    text-align: justify;
+    margin-right: 10px ;
+    margin-left: 15%;
+}
